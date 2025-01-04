@@ -1,0 +1,13 @@
+move
+IF next-is-not-enemy THEN
+  turnright
+END IF
+IF random THEN
+  infect
+ELSE
+  skip
+END IF
+WHILE next-is-wall DO
+  turnleft
+END WHILE
+turnback
