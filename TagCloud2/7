@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Top 25 words in data/alice.txt</title>
+<link href="tagcloud.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>Top 25 words in data/alice.txt</h2>
+<hr>
+<div class="cdiv">
+<p class="cbox">
+<span style="font-size:12px" title="Count: 4">frowning</span>
+<span style="font-size:11px" title="Count: 2">nicely</span>
+<span style="font-size:21px" title="Count: 23">half</span>
+<span style="font-size:18px" title="Count: 17">spoke</span>
+<span style="font-size:14px" title="Count: 9">hall</span>
+<span style="font-size:39px" title="Count: 60">your</span>
+<span style="font-size:11px" title="Count: 2">explanation</span>
+<span style="font-size:11px" title="Count: 1">pretend</span>
+<span style="font-size:22px" title="Count: 25">without</span>
+<span style="font-size:13px" title="Count: 6">youth</span>
+<span style="font-size:11px" title="Count: 1">kettle</span>
+<span style="font-size:17px" title="Count: 14">these</span>
+<span style="font-size:12px" title="Count: 4">begins</span>
+<span style="font-size:12px" title="Count: 4">quadrille</span>
+<span style="font-size:19px" title="Count: 19">tea</span>
+<span style="font-size:11px" title="Count: 1">`chop</span>
+<span style="font-size:12px" title="Count: 4">twinkling</span>
+<span style="font-size:11px" title="Count: 2">drunk</span>
+<span style="font-size:11px" title="Count: 2">`wow</span>
+<span style="font-size:11px" title="Count: 1">introduced</span>
+<span style="font-size:48px" title="Count: 78">would</span>
+<span style="font-size:35px" title="Count: 51">rabbit</span>
+<span style="font-size:11px" title="Count: 3">legs</span>
+<span style="font-size:11px" title="Count: 1">flapper</span>
+<span style="font-size:12px" title="Count: 5">ten</span>
+</p>
+</div>
+</body>
+</html>

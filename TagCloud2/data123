@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Top 35 words in /Users/markling/Downloads/TagCloud2/data/lesmiz.txt</title>
+<link href="tagcloud.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>Top 35 words in /Users/markling/Downloads/TagCloud2/data/lesmiz.txt</h2>
+<hr>
+<div class="cdiv">
+<p class="cbox">
+<span style="font-size:48px" title="Count: 40898">the</span>
+<span style="font-size:27px" title="Count: 19834">of</span>
+<span style="font-size:23px" title="Count: 14872">and</span>
+<span style="font-size:22px" title="Count: 14539">a</span>
+<span style="font-size:22px" title="Count: 13870">to</span>
+<span style="font-size:19px" title="Count: 11155">in</span>
+<span style="font-size:18px" title="Count: 9641">he</span>
+<span style="font-size:17px" title="Count: 8621">was</span>
+<span style="font-size:16px" title="Count: 7906">that</span>
+<span style="font-size:15px" title="Count: 6642">it</span>
+<span style="font-size:15px" title="Count: 6470">his</span>
+<span style="font-size:14px" title="Count: 6180">had</span>
+<span style="font-size:14px" title="Count: 6169">is</span>
+<span style="font-size:13px" title="Count: 5142">which</span>
+<span style="font-size:13px" title="Count: 4479">with</span>
+<span style="font-size:13px" title="Count: 4460">on</span>
+<span style="font-size:12px" title="Count: 4055">at</span>
+<span style="font-size:12px" title="Count: 3962">this</span>
+<span style="font-size:12px" title="Count: 3825">i</span>
+<span style="font-size:12px" title="Count: 3781">not</span>
+<span style="font-size:12px" title="Count: 3647">you</span>
+<span style="font-size:12px" title="Count: 3344">one</span>
+<span style="font-size:12px" title="Count: 3244">as</span>
+<span style="font-size:11px" title="Count: 2961">for</span>
+<span style="font-size:11px" title="Count: 2942">him</span>
+<span style="font-size:11px" title="Count: 2790">have</span>
+<span style="font-size:11px" title="Count: 2676">there</span>
+<span style="font-size:11px" title="Count: 2636">her</span>
+<span style="font-size:11px" title="Count: 2555">who</span>
+<span style="font-size:11px" title="Count: 2469">all</span>
+<span style="font-size:11px" title="Count: 2452">by</span>
+<span style="font-size:11px" title="Count: 2447">she</span>
+<span style="font-size:11px" title="Count: 2436">from</span>
+<span style="font-size:11px" title="Count: 2372">be</span>
+<span style="font-size:11px" title="Count: 2146">are</span>
+</p>
+</div>
+</body>
+</html>
